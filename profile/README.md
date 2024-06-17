@@ -4,7 +4,7 @@
 
 |  이름  |     담당      |                                                                                  Github                                                                                  |
 | :----: | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 박상욱 |      ???      |      <a href="https://github.com/sw0501" target="_blank"><img src="https://img.shields.io/badge/sw0501-181717?style=flat-square&logo=github&logoColor=white"/> </a>      |
+| 박상욱 |      PM      |      <a href="https://github.com/sw0501" target="_blank"><img src="https://img.shields.io/badge/sw0501-181717?style=flat-square&logo=github&logoColor=white"/> </a>      |
 | 지수영 | JS / TS 개발  |  <a href="https://github.com/SooYoungJi" target="_blank"><img src="https://img.shields.io/badge/SooYoungJi-181717?style=flat-square&logo=github&logoColor=white"/> </a>  |
 | 김준우 | JS / TS 개발  |    <a href="https://github.com/rlawnsdn" target="_blank"><img src="https://img.shields.io/badge/rlawnsdn-181717?style=flat-square&logo=github&logoColor=white"/> </a>    |
 | 강혁준 | JS / TS 개발  | <a href="https://github.com/kanghyukjun" target="_blank"><img src="https://img.shields.io/badge/kanghyukjun-181717?style=flat-square&logo=github&logoColor=white"/> </a> |
